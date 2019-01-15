@@ -1,0 +1,3 @@
+rootProject.name = 'RNPasswordAutoFill'
+
+include ':app'
